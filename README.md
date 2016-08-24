@@ -11,6 +11,7 @@ Getting Started
 1. Clone the repository `git clone https://github.com/codybuell/vim-boilerplate.git`
 2. Pull down submodules `cd vim-boilerplate; git submodule init; git submodule update`
 3. Place the dotfiles `make awesome`
+4. Run vimtutor and start learning `vimtutor`
 
 Plugins Worth Checking Out
 --------------------------
